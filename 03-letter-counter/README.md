@@ -6,9 +6,9 @@ For example:
 
 `letters("Chicago")  -->  "c:++, h:+, i:+, a:+, g:+, o:+"`
 
-As you can see, the letter c is shown only once, but with 2 asterisks.
+As you can see, the letter c is shown only once, but with 2 pluses.
 
-The return string should include only the letters (not the dashes, spaces, apostrophes, etc). There should be no spaces in the output, and the different letters are separated by a comma (,) as seen in the example above.
+The return string should include only the letters (not the dashes, spaces, apostrophes, etc). The different letters are separated by a comma (,) and space as seen in the example above.
 
 Note that the return string must list the letters in order of their first appearance in the original string.
 
