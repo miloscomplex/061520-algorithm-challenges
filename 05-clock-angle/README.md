@@ -12,6 +12,8 @@ clockAngle("3:20") --> 30
 
 Assume the big hand remains steady and only changes at the top of the hour (in other words, at 12:30 the big hand is still at 0 degrees on the clock face).
 
+The angle ought to be the smaller angle between the two hands.
+
 ## Bonus
 
 As a bonus, assume the big hand continues to move forward each minute so at 12:30 it'll be between the 12 and the 1:
