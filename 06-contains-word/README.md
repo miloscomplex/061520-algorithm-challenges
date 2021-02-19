@@ -1,4 +1,4 @@
-# Word Container
+# Contains Word
 
 Build a function / method that takes in two arguments (both strings). It will then return whether or not the first string contains all the characters needed to print the second string.
 
